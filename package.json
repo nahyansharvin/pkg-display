@@ -1,6 +1,6 @@
 {
   "name": "@nahyansharvin/katzion-display",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Display component for katzion-data-hub",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -17,6 +17,9 @@
   "license": "ISC",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@nahyansharvin/katzion-datahub": "^1.0.0"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.7",
