@@ -16,6 +16,9 @@
   },
   "author": "nahyan",
   "license": "ISC",
+  "dependencies": {
+    "@nahyansharvin/katzion-datahub": "^1.0.0"
+  },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.7",
     "@rollup/plugin-node-resolve": "^15.2.3",
